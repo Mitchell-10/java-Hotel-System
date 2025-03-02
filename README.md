@@ -38,3 +38,9 @@
 - 在线预订系统
 - 余额实时显示
 - 预订结果反馈
+
+## 使用说明
+编译运行命令：
+```bash
+javac -d bin src/com/yjh/HotelSystem/*.java
+java -cp bin com.yjh.HotelSystem.Main
